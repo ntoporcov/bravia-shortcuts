@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/bravia-shortcuts/static/css/main.3dd75c4c.chunk.css",
+    "main.js": "/bravia-shortcuts/static/js/main.946ac000.chunk.js",
+    "main.js.map": "/bravia-shortcuts/static/js/main.946ac000.chunk.js.map",
+    "runtime-main.js": "/bravia-shortcuts/static/js/runtime-main.2c627342.js",
+    "runtime-main.js.map": "/bravia-shortcuts/static/js/runtime-main.2c627342.js.map",
+    "static/js/2.1b252091.chunk.js": "/bravia-shortcuts/static/js/2.1b252091.chunk.js",
+    "static/js/2.1b252091.chunk.js.map": "/bravia-shortcuts/static/js/2.1b252091.chunk.js.map",
+    "index.html": "/bravia-shortcuts/index.html",
+    "precache-manifest.a18122f0aa55ac8e4bc6a954a8e45460.js": "/bravia-shortcuts/precache-manifest.a18122f0aa55ac8e4bc6a954a8e45460.js",
+    "service-worker.js": "/bravia-shortcuts/service-worker.js",
+    "static/css/main.3dd75c4c.chunk.css.map": "/bravia-shortcuts/static/css/main.3dd75c4c.chunk.css.map",
+    "static/js/2.1b252091.chunk.js.LICENSE.txt": "/bravia-shortcuts/static/js/2.1b252091.chunk.js.LICENSE.txt",
+    "static/media/helper.png": "/bravia-shortcuts/static/media/helper.3d9c9bb2.png",
+    "static/media/icons.png": "/bravia-shortcuts/static/media/icons.cf75d966.png",
+    "static/media/power.png": "/bravia-shortcuts/static/media/power.0b09c3bd.png",
+    "static/media/setup.png": "/bravia-shortcuts/static/media/setup.7555cc06.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c627342.js",
+    "static/js/2.1b252091.chunk.js",
+    "static/css/main.3dd75c4c.chunk.css",
+    "static/js/main.946ac000.chunk.js"
+  ]
+}
