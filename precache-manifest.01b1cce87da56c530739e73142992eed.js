@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1433c58a1995a1d50e55e2256682f8d7",
+    "revision": "fedf65ee4a09d02e0081b7040fb65e86",
     "url": "/bravia-shortcuts/index.html"
   },
   {
