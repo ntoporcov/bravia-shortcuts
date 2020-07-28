@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bravia-shortcuts/static/css/main.3dd75c4c.chunk.css",
-    "main.js": "/bravia-shortcuts/static/js/main.946ac000.chunk.js",
-    "main.js.map": "/bravia-shortcuts/static/js/main.946ac000.chunk.js.map",
+    "main.js": "/bravia-shortcuts/static/js/main.bd4feb2b.chunk.js",
+    "main.js.map": "/bravia-shortcuts/static/js/main.bd4feb2b.chunk.js.map",
     "runtime-main.js": "/bravia-shortcuts/static/js/runtime-main.2c627342.js",
     "runtime-main.js.map": "/bravia-shortcuts/static/js/runtime-main.2c627342.js.map",
     "static/js/2.1b252091.chunk.js": "/bravia-shortcuts/static/js/2.1b252091.chunk.js",
     "static/js/2.1b252091.chunk.js.map": "/bravia-shortcuts/static/js/2.1b252091.chunk.js.map",
     "index.html": "/bravia-shortcuts/index.html",
-    "precache-manifest.01b1cce87da56c530739e73142992eed.js": "/bravia-shortcuts/precache-manifest.01b1cce87da56c530739e73142992eed.js",
+    "precache-manifest.c9f10b37fc352c9993a02af966786188.js": "/bravia-shortcuts/precache-manifest.c9f10b37fc352c9993a02af966786188.js",
     "service-worker.js": "/bravia-shortcuts/service-worker.js",
     "static/css/main.3dd75c4c.chunk.css.map": "/bravia-shortcuts/static/css/main.3dd75c4c.chunk.css.map",
     "static/js/2.1b252091.chunk.js.LICENSE.txt": "/bravia-shortcuts/static/js/2.1b252091.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.2c627342.js",
     "static/js/2.1b252091.chunk.js",
     "static/css/main.3dd75c4c.chunk.css",
-    "static/js/main.946ac000.chunk.js"
+    "static/js/main.bd4feb2b.chunk.js"
   ]
 }
