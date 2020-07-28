@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/bravia-shortcuts/static/css/main.3dd75c4c.chunk.css",
-    "main.js": "/bravia-shortcuts/static/js/main.49c1632f.chunk.js",
-    "main.js.map": "/bravia-shortcuts/static/js/main.49c1632f.chunk.js.map",
+    "main.css": "/bravia-shortcuts/static/css/main.e1118202.chunk.css",
+    "main.js": "/bravia-shortcuts/static/js/main.bd4feb2b.chunk.js",
+    "main.js.map": "/bravia-shortcuts/static/js/main.bd4feb2b.chunk.js.map",
     "runtime-main.js": "/bravia-shortcuts/static/js/runtime-main.2c627342.js",
     "runtime-main.js.map": "/bravia-shortcuts/static/js/runtime-main.2c627342.js.map",
     "static/js/2.1b252091.chunk.js": "/bravia-shortcuts/static/js/2.1b252091.chunk.js",
     "static/js/2.1b252091.chunk.js.map": "/bravia-shortcuts/static/js/2.1b252091.chunk.js.map",
     "index.html": "/bravia-shortcuts/index.html",
-    "precache-manifest.9bc6257b68499ae98253c01721150378.js": "/bravia-shortcuts/precache-manifest.9bc6257b68499ae98253c01721150378.js",
+    "precache-manifest.8de5036768000472c49f15c5bb7fd0ce.js": "/bravia-shortcuts/precache-manifest.8de5036768000472c49f15c5bb7fd0ce.js",
     "service-worker.js": "/bravia-shortcuts/service-worker.js",
-    "static/css/main.3dd75c4c.chunk.css.map": "/bravia-shortcuts/static/css/main.3dd75c4c.chunk.css.map",
+    "static/css/main.e1118202.chunk.css.map": "/bravia-shortcuts/static/css/main.e1118202.chunk.css.map",
     "static/js/2.1b252091.chunk.js.LICENSE.txt": "/bravia-shortcuts/static/js/2.1b252091.chunk.js.LICENSE.txt",
     "static/media/helper.png": "/bravia-shortcuts/static/media/helper.3d9c9bb2.png",
     "static/media/icons.png": "/bravia-shortcuts/static/media/icons.cf75d966.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.2c627342.js",
     "static/js/2.1b252091.chunk.js",
-    "static/css/main.3dd75c4c.chunk.css",
-    "static/js/main.49c1632f.chunk.js"
+    "static/css/main.e1118202.chunk.css",
+    "static/js/main.bd4feb2b.chunk.js"
   ]
 }
