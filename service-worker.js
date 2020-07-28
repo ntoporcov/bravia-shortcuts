@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bravia-shortcuts/precache-manifest.c9f10b37fc352c9993a02af966786188.js"
+  "/bravia-shortcuts/precache-manifest.9bc6257b68499ae98253c01721150378.js"
 );
 
 self.addEventListener('message', (event) => {

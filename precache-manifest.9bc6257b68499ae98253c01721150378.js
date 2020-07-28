@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e84fb482e3447e35f23c4a1cb7a15db3",
+    "revision": "cc89f6e71ca7aabfa86aa5c058eea39e",
     "url": "/bravia-shortcuts/index.html"
   },
   {
-    "revision": "ae4a61a24f764c3b05a0",
+    "revision": "a32497a94069009bc785",
     "url": "/bravia-shortcuts/static/css/main.3dd75c4c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bravia-shortcuts/static/js/2.1b252091.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ae4a61a24f764c3b05a0",
-    "url": "/bravia-shortcuts/static/js/main.bd4feb2b.chunk.js"
+    "revision": "a32497a94069009bc785",
+    "url": "/bravia-shortcuts/static/js/main.49c1632f.chunk.js"
   },
   {
     "revision": "7b49c7e8f2c71c95026d",
