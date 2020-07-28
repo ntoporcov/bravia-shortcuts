@@ -17,8 +17,8 @@ p{
 
 .App {
   min-height: 100vh;
-  max-width: 1000px;
-  padding-bottom: 30vh;
+  max-width: 800px;
+  padding: 100px 15% 30vh;
   margin:0 auto;
   display: flex;
   flex-direction: column;
@@ -27,6 +27,7 @@ p{
 }
 
 .step{
+  width:100%;
   background:white;
   padding:30px 50px;
   margin:20px;
@@ -39,8 +40,8 @@ p{
 }
 
 a:not(.link){
-  padding:15px 20px;
-  margin-bottom: 20px;
+  padding:25px 10px;
+  margin-bottom: 40px;
   display: block;
   border-radius: 10px;
   text-decoration: none;

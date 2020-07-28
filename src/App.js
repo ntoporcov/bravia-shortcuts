@@ -83,14 +83,15 @@ function App() {
                   <Button url={"https://www.icloud.com/shortcuts/f35c9b1be1544144ad4e07993862551b"} text={"Download Commands Shortcut"}/>
                   <hr/>
 
-                  <h3>Run IRCC Command</h3>
-                  <p>This one grabs a key from the previous shortcut based on the provided key and sends it to the TV with the IP from the config using the PSK from the config.</p>
-                  <Button url={"https://www.icloud.com/shortcuts/3ec9554536674ea7abda1d48caff60ea"} text={"Download Run IRCC Shortcut"}/>
-                  <hr/>
-
                   <h3>Back to Springboard</h3>
                   <p>This isn't mine, but it works well for us. It just takes you back to the home page after a command is run.</p>
                   <Button url={"https://www.icloud.com/shortcuts/9cc28d884a5149f4b0b297f78fce13e1"} text={"Download Back to Springboard"}/>
+                  <hr/>
+
+                  <h3>Run IRCC Command</h3>
+                  <p>This one grabs a key from the previous shortcut based on the provided key and sends it to the TV with the IP from the config using the PSK from the config.</p>
+                  <Button url={"https://www.icloud.com/shortcuts/3ec9554536674ea7abda1d48caff60ea"} text={"Download Run IRCC Shortcut"}/>
+
               </div>
           }
         />
